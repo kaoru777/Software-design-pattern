@@ -18,7 +18,7 @@ A class is build with three sections:
 
 ## Visibility
 
-An attribute or method can have one of the four different visibilities:
+An attribute or method can have one of the four different visibilities:  
 `+` Public  
 `-` Private  
 `#` Protected  
@@ -29,3 +29,23 @@ An attribute or method can have one of the four different visibilities:
 ### Association
 
 ![Association Airport](association_airport.png)
+
+### Aggregation
+
+![Aggregation Book](aggregation_book.png)
+
+### Composition
+
+![Composition Airplane](composition_airplane.png)
+
+### Dependency
+
+![Dependency Airplane](dependency_airplane.png)
+
+### Inheritance
+
+![Interitance Vehicle](inheritance_vehicle.png)
+
+### Realization
+
+![Realization Shape](realization_shape.png)
