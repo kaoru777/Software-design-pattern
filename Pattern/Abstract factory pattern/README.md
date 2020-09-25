@@ -9,4 +9,4 @@ The following sources have been used:
 
 ## Diagram
 
-![Abstract factory pattern](Abstract factory pattern.png)
+![Abstract factory pattern](abstract_factory_pattern.png)
